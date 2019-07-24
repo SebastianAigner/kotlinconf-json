@@ -4,379 +4,325 @@
       "id": 1,
       "videoUrl": "https://www.youtube.com/watch?v=PsaFVLr8t4E",
       "title": "Conference Opening Keynote",
-      "speaker": "Andrey Breslav",
-      "description": "KotlinConf 2018 gets underway with the Conference Opening Keynote by Andrey Breslav. About the Presenter: Andrey Breslav has been leading design and development of the Kotlin Programming Language at JetBrains since 2010 when the project started. He often presents as a speaker at large software conferences and contributes to the Kotlin blog."
+      "speaker": "Andrey Breslav"
     },
     {
       "id": 2,
       "videoUrl": "https://www.youtube.com/watch?v=WkIry790PHI",
       "title": "A Multiplatform Delight",
-      "speaker": "Jake Wharton and Alec Strong",
-      "description": "SQL Delight, a type-safe database API, recently completed migration from being a Java-generating, Android-specific tool to a Kotlin-generating, multiplatform one. Migrating an API from Java to Kotlin has obvious benefits, but adding multiplatform support for iOS introduces a dynamic which complicates the API, code generation, and runtime. This talk will cover the challenges of platform-agnostic API design, type-safe multiplatform Kotlin code generation, and the integration of platform-specific runtimes such that the library not only runs efficiently on each platform but also integrates well with the other languages each might be using. About the Presenters: * Jake Wharton is an Android engineer at Google working on Kotlin things. * Alec Strong and Egor Andreevici are Android developers at Square."
+      "speaker": "Jake Wharton and Alec Strong"
     },
     {
       "id": 3,
       "videoUrl": "https://www.youtube.com/watch?v=Rvx_BfG3NDo",
       "title": "Next Level DSLs",
-      "speaker": "Aaron Sarazan",
-      "description": "Configure your app the Kotlin way! Aaron will walk you through the design of a pluggable app architecture, all driven by an expansive domain-specific language executed at run-time. Heavily inspired by the structure of build.gradle, this talk will demonstrate how you can push your configuration logic into a type-safe, declarative, and convenient format. About Aaron Sarazan: In the past ten years, Aaron has shipped native code to tens of millions of users across iOS & Android. He also has a background in game development, and has shipped multiple award-winning titles. He is also the author of Udacity's first-ever Kotlin course: Kotlin For Android Developers."
+      "speaker": "Aaron Sarazan"
     },
     {
       "id": 4,
       "videoUrl": "https://www.youtube.com/watch?v=Fzt_9I733Yg",
       "title": "Dissecting the stdlib",
-      "speaker": "Huyen Tue Dao",
-      "description": "One of the best places to learn idiomatic Kotlin is the stdlib. Now I don_t mean just using the stdlib but going to the source, literally. In this session, we_ll look at some of the methods and tools inside the stdlib and dig into how they_re written to reveal intermediate to advanced language features, slick syntax and conventions, and high-level abstractions to help you write more fluent objects and interfaces. We_ll also take a few glances at the underlying bytecode to understand how and why the features work the way they do. About the Presenter: Huyen Tue Dao is an Android developer and Google Developer Expert, currently working on the Trello Android app at Atlasssian. She is also co-creator of the \"Android Dialogs\" YouTube channel. Huyen lives in Denver, CO though is often found in the DC Metro area. When not up late programming, she is often found up late gaming (video, board, card, anything)."
+      "speaker": "Huyen Tue Dao"
     },
     {
       "id": 5,
       "videoUrl": "https://www.youtube.com/watch?v=8xfQA10Cd7g",
       "title": "Komparing Kotlin Server Frameworks",
-      "speaker": "Ken Yee",
-      "description": "An overview of what you should look for when trying to find a framework for your Kotlin server backend. We compare a few of the frameworks that are written in Kotlin with frameworks that support Kotlin. And we find out how \"Kotlin support\" can improve backend code. About the Presenter: Ken Yee mostly does Android development nowadays but has done full-stack and CI/CD stuff in the past and is always interested in making things more efficient for everyone and exploring new technologies."
+      "speaker": "Ken Yee"
     },
     {
       "id": 6,
       "videoUrl": "https://www.youtube.com/watch?v=mAtrEPeAJSc",
       "title": "Type-Safe Build Logic with Gradle Kotlin DSL",
-      "speaker": "Paul Merlin",
-      "description": "As of Gradle 5.0, you can now author your build scripts in Kotlin. You will discover a much richer IDE experience through editor assistance, better refactoring and debugging. In this live coding session, we walk through several Groovy-based build examples and convert them to Kotlin: demonstrating Gradle Kotlin DSL features and best practices so that you can take your build to the next level. About the Presenter: Paul Merlin is an experienced, self-made, software engineer with a wide knowledge ranging from computers, network security and architectures to high-level programming langages, domain modeling and cryptography. 39 years old, hobbyist at 7 already, Paul professionally started to build softwares in 2000. He joined the Gradle team three years ago, on time for 2.14, participated to the big performance efforts that went into the 3.x and 4.x versions and works on the Gradle Kotlin DSL since then."
+      "speaker": "Paul Merlin"
     },
     {
       "id": 7,
       "videoUrl": "https://www.youtube.com/watch?v=LJyDCYP0WG4",
       "title": "Graphics Programming with Kotlin",
-      "speaker": "Romain Guy",
-      "description": "Graphics programming is a field dominated by traditional languages like C and C++, or specialized languages like GLSL and HLSL. In this talk, we go over how Kotlin allows you to take advantage of a managed language while preserving the conciseness and expressiveness of low-level languages like C++ when writing math and graphics oriented code. About the Presenter: Romain Guy is an engineer at Google. He worked on the Android Framework team, leading the UI toolkit and UI renderer, and now works on new graphics related projects."
+      "speaker": "Romain Guy"
     },
     {
       "id": 8,
       "videoUrl": "https://www.youtube.com/watch?v=pSiZVAeReeg",
       "title": "Kotlin and Spring Boot, a Match Made in Heaven",
-      "speaker": "Nicolas Frankel",
-      "description": "Despite being quite _new_, Spring Boot has seen a spectacular start as an amazing kickstarter for Spring-based application. You can now start your project in a matter of minutes, not days! On the other hand, you_re still using Java, with all its ceremony regarding code_ Wouldn_t it be great if we could pair Spring Boot with a powerful yet simple language? In this talk, I live code a Spring Boot application using Kotlin. Come discover how you can now cut through all the red tape and finally focus only the important stuff. About Nicolas Frankel: Software Architect with 15 years experience consulting for many different customers, in a wide range of contexts (such as telecoms, banking, insurances, large retail and public sector). Usually working on Java/Java EE and Spring technologies, but with narrower interests like Software Quality, Build Processes and Rich Internet Applications. Currently working for an eCommerce solution vendor leader. Also double as a teacher in universities and higher education schools, a trainer and triples as a book author."
+      "speaker": "Nicolas Frankel"
     },
     {
       "id": 9,
       "videoUrl": "https://www.youtube.com/watch?v=U-gdJQeOVAk",
       "title": "Live Coding Kotlin/Native Snake",
-      "speaker": "Dmitry Kandalov",
-      "description": "This is a live coding session in which the classic snake game will be coded live from scratch. You will see how to build Kotlin/Native projects, use C libraries from Kotlin, do memory management, native UI, unit testing and, of course, some of the standard Kotlin features. About the Presenter: Dmitry Kandalov has been programming since DOS times. He spent last 10 years or so in Java lands and has recently escaped banking industry."
+      "speaker": "Dmitry Kandalov"
     },
     {
       "id": 10,
       "videoUrl": "https://www.youtube.com/watch?v=yjhQiP0329M",
       "title": "Safe(r) Kotlin Code - Static Analysis Tools for Kotlin",
-      "speaker": "Marvin Ramin",
-      "description": "When introducing Kotlin to a Java codebase one thing that is often missing from the picture are static analysis tools. Static Analysis suites can give an overview of a codebases health, point out potential issues to make the code safer and can help to keep the codebase in a uniform style. The Java ecosystem already has a broad selection of different static analysis tools each with a different focus. To cater for the different language features and concepts that Kotlin offers most Java focussed static analysis tools are not applicable to Kotlin code. This talk showcases static analysis tools written specifically to improve Kotlin code (and are mostly written in Kotlin themselves). Tools such as detekt, ktlint and Android Lint are introduced and explored for their use-cases and how they can complement each other. As Marvin is one of the maintainers of detekt he will also share in more detail how detekt works, what it aims to achieve and how the future roadmap looks like for detekt. About the Presenter: Marvin Ramin is a Software Engineer at Google where he is working on Android TV. Previously he was working on multiple Android applications focusing on making their codebases safer and easier to work with. Marvin is also contributing and collaborating on detekt, a Kotlin static analysis suite."
+      "speaker": "Marvin Ramin"
     },
     {
       "id": 11,
       "videoUrl": "https://www.youtube.com/watch?v=P7ov_r1JZ1g",
       "title": "Android Suspenders",
-      "speaker": "Chris Banes",
-      "description": "So you've read the Coroutines guide and you're ready to start using them in your Android app to coroutines? Great! This talk focuses on the best practices of using coroutines in your app, including how to handle lifecycle changes with Architecture Components, integration with background job processing, and moving away from RxJava. About the Presenter: Chris Banes is an engineer working in Android Developer Relations at Google. He previously worked on the Android Support Libraries, most notably AppCompat, Design and Palette. He has worked on Android things for over 8 years, from open source libraries to media apps, social networks and most stuff in between."
+      "speaker": "Chris Banes"
     },
     {
       "id": 12,
       "videoUrl": "https://www.youtube.com/watch?v=1NmXeZgtkvg",
       "title": "GraphQL Powered by Kotlin",
-      "speaker": "Annyce Davis",
-      "description": "GraphQL is a query language for your API. This allows you to interact with your existing web services and databases in a new way. Instead of relying on a predetermined output structure from your API, you can \"query\" it and choose only the fields that you're interested in. In this talk, learn what GraphQL is all about and how you can take advantage of it in your applications. A few key GraphQL terms we cover are: * Fields/Types * Variables * Queries/Mutations We explore how you can create a GraphQL Server with a stack written entirely in Kotlin. Then we'll take a look at how you can integrate the Apollo Client library inside of a Kotlin-powered Android application. GraphQL isn't going away, so here's your chance to get a grip on this exciting technology! About the Presenter: Annyce Davis is an Android Google Developer Expert. She has spent the past 6 years developing applications for the Android ecosystem across multiple form factors. She is also an international conference speaker and author, sharing her knowledge of Android development with others. In addition, Annyce is active in the Washington, DC tech scene and assists with running a local meetup focused on Android development and design."
+      "speaker": "Annyce Davis"
     },
     {
       "id": 13,
       "videoUrl": "https://www.youtube.com/watch?v=-zTqtEcnM7A",
       "title": "Mathematical Modeling with Kotlin",
-      "speaker": "Thomas Nield",
-      "description": "As programmers, we love solving problems. However, sometimes we need more than programmer grit to solve many problems with no easy answer. Suppose you need to tightly schedule 190 classes in 20 classrooms, with different class durations, recurrences, and constraints throughout the week? What about minimizing the operating cost of a train schedule while maintaining a steady movement of passengers? How about anticipating an industry competitor's move? Or simply solving a Sudoku? Mathematical modeling is the workhorse of data science, machine learning, and operations research. By effectively expressing mathematical concepts in code, you can gracefully find solutions to a broad category of problems and avoid impractical brute-force techniques. Even better, Kotlin's pragmatic language features allow clearer and more refactorable models that can safely evolve and be put in production. Come to this session to see live examples of Kotlin mathematical models to solve real-world problems like discrete optimization, Bayesian techniques, and artificial neural networks. About the Presenter: Thomas Nield is a Business Consultant at Southwest Airlines, often balancing technology with operations research. He is also an author and trainer with O'Reilly Media. He wrote two books (\"Getting Started with SQL\" and \"Learning RxJava\") and regularly contributes to OSS projects."
+      "speaker": "Thomas Nield"
     },
     {
       "id": 14,
       "videoUrl": "https://www.youtube.com/watch?v=a2RoLFzrFG0",
       "title": "Annotation Processing in a Kotlin World",
-      "speaker": "Zac Sweers",
-      "description": "Annotation processing is a powerful tool to extend your codebase at build time, and the advent of Kotlin in the android community introduces a dimension to this. Kapt works with existing Java processors, but it doesn_t come without its quirks at the interop layer. This talk will dive into how you can leverage Kotlin bytecode_s @Metadata annotations to better understand Kotlin code during annotation processing, covering anywhere from case studies in Dagger and Moshi to leveraging tools like KotlinPoet to even generate Kotlin code that seamlessly leverages language features. About the Presenter: Zac Sweers is a mobile engineer at Uber with primary focus areas in Android, code gen, Kotlin, OSS, and avoiding sniffly APIs. He_s the creator of a few open source libraries like AutoDispose and Barber, and active contributor to several more."
+      "speaker": "Zac Sweers"
     },
     {
       "id": 15,
       "videoUrl": "https://www.youtube.com/watch?v=pcwIs749KSE",
       "title": "Architecting a Kotlin JVM and JS Multiplatform Project",
-      "speaker": "Felipe Lima",
-      "description": "Kotlin multiplatform support is a powerful feature that allows us to share code between multiple projects across platforms where it wasn't previously simple or even possible. In this talk we explore how to take advantage of this feature by dissecting a project that uses concepts like expect/actual keywords, expectedBy, typealiases, javascript interop and more. By the end, attendees will have a solid understanding of how to get started and build their own Kotlin projects leveraging multiplatform support and code sharing. About the Presenter: Felipe Lima is a Brazilian engineer with over 10 years of experience who is passionate about clean and maintainable code, functional programming and, obviously, Kotlin. Currently works at Airbnb on developer infrastructure."
+      "speaker": "Felipe Lima"
     },
     {
       "id": 16,
       "videoUrl": "https://www.youtube.com/watch?v=-qz514eVu1Y",
       "title": "Functional CQRS in Kotlin",
-      "speaker": "Uberto Barbini",
-      "description": "This presentation uses live coding to show how to implement and implement a CQRS architecture using functional abstractions, pure functions and immutable data using Kotlin as language. CQRS concepts go very well together with functional programming principles of immutability and high level functions. Participants don't have to know Kotlin or functional programming but the knowledge can be beneficial. The session tries to capture the main architecture critical decision in implementing a cqrs application. We also believe that using a functional approach simplify the code and avoid some typical pitfalls in event store implementations. Of course it can bring to other problems so we discuss those as well. About the Presenter: Uberto Barbini is an expert on building software products, currently working with finance institutions in London. He has more than two decades experience in building great products. He is practicing TDD and Agile since 2001. He writes technical articles, regularly speaks at conference around Europe and organises courses. He is experienced in designing and implementing software architectures and he believes in the agile manifesto values and principles. He is also a passionate polyglot programmer, he started as a kid with a ZxSpectrum he hopes to continue for many years to come."
+      "speaker": "Uberto Barbini"
     },
     {
       "id": 17,
       "videoUrl": "https://www.youtube.com/watch?v=yjVW6uCmVBA",
       "title": "Building Data Science Workflows with Kotlin",
-      "speaker": "Holger Brandl",
-      "description": "Kotlin's language design and its great tooling provide a wonderful framework for data science. Still evolving are libraries for convenient and kotlin-esque table manipulation and reporting. In this session I would like to present the design and features of krangl, which is a {K}otlin DSL for data w{rangl}ing. By mimicking well established concepts from pandas and R, it implements a grammar of data manipulation using a modern functional-style API. It allows to filter, transform, aggregate and reshape tabular data. Clearly static types are preferable when using Kotlin, but very often data is fluent and has no immediate type. To bridge this gap, krangl provides means to toggle between typed and untyped data. As an example, we will discuss how to compete at kaggle with workflows written in Kotlin. To facilitate that, we will use Jupyter to convert Kotlin scripts into HTML/notebooks. About the Presenter: Holger Brandl works as a data scientist at the Max Planck Institute of Molecular Cell Biology and Genetics (Dresden, Germany). He holds a Ph.D. degree in machine learning, and has developed new concepts in the field of computational linguistics. More recently he has co-authored publications in high-ranking journals such as Nature and Science. He is actively contributing to the Kotlin community by developing tools and libraries for bioinformatics, high-performance computing and data-science."
+      "speaker": "Holger Brandl"
     },
     {
       "id": 18,
       "videoUrl": "https://www.youtube.com/watch?v=juFkdMv4B9s",
       "title": "Exploring the Kotlin Type Hierarchy from Top to Bottom",
-      "speaker": "Nat Pryce",
-      "description": "Coming from Java, Kotlin's type system can appear quite daunting: nullable types, Unit, Nothing, Any, variance specifiers, function types, and more. But don't panic! Kotlin's type hierarchy is actually simple _ it has very few rules to learn and those rules combine together consistently and predictably. Thanks to those rules, Kotlin useful language features, such as null safety and unreachable code analysis, do not rely on special cases that you must memorise, or ad-hoc checks in the compiler and IDE that stop working when your code gets too complicated. In this talk Nat takes you on a tour of Kotlin's type hierarchy and demonstrate how to use it to model your application domains, using example code taken from real projects. About the Presenteer: Nat Pryce has been programming for *coughty-cough* years, and programming in Kotlin since it was in beta. He introduced Kotlin into his current client and his team used it to deliver business-critical, customer-facing web applications. Now many teams in the company are happy users of Kotlin, and it powers many of their core services."
+      "speaker": "Nat Pryce"
     },
     {
       "id": 19,
       "videoUrl": "https://www.youtube.com/watch?v=nw6YTfEyfO0",
       "title": "Kotlin/Native Concurrency Model",
-      "speaker": "Nikolay Igotti",
-      "description": "Kotlin/Native runtime is designed to minimize possible programmers mistakes related to concurrency and undesired mutable state. To achieve this goal, while keeping the source-level compatibility with Kotlin, runtime and standard library was carefully designed to avoid concurrently accessible mutable state. In this talk we discuss both reasoning behind this design, design and implementation details of the runtime and compiler. Also generic topics of automated memory management in the compiled language are covered. About Nikolay Igotti: Worked on various system level software (Hotspot JVM, VirtualBox, Native Client) at Sun, EMC, Oracle and Google. Now implementing native backend and the runtime for Kotlin programming language."
+      "speaker": "Nikolay Igotti"
     },
     {
       "id": 20,
       "videoUrl": "https://www.youtube.com/watch?v=w-GMlaziIyo",
       "title": "Writing Your First Kotlin Compiler Plugin",
-      "speaker": "Kevin Most",
-      "description": "The Kotlin compiler plugin API gives us powerful features like Parcelize and the synthetic view accessor methods in kotlinx.android. These features could not be built using similar, but more limited, mechanisms, such as annotation processing. The Kotlin compiler plugin API is not currently well-documented, but that doesn't mean that it can't be explored! In this talk, we start from scratch and show how we can build a compiler plugin and deploy an artifact to a public location, so that we can build plugins that can be applied as easily as the official compiler plugins. About the Presenter: Kevin Most is a New York City-based software engineer who is passionate about Android, and excited about Kotlin. Kevin currently works at Google on the Mobile Vision team, exploring the various applications of the image recognition libraries that power Lens and other Google vision products."
+      "speaker": "Kevin Most"
     },
     {
       "id": 21,
       "videoUrl": "https://www.youtube.com/watch?v=kDxerDYelLs",
       "title": "Beat the High-Score: Build a Game Using libGDX and Kotlin",
-      "speaker": "David Wursteisen",
-      "description": "Playing games is fun but making games is even better, especially with Kotlin and libGDX. Let's build together a breakout game and let's explore the gaming framework libGDX. This session will show some libGDX's concepts: how to draw and animate elements of our game, how collision system works to destroy our bricks, what Kotlin brings to libGDX. Then we will dive into more advanced topics like shaders, in order to handle pixels from our images. Why are we doing all of this? To break the high score, of course! About David Wursteisen: Technologies shoudn't be an issue. Instead it should help you to build better products"
+      "speaker": "David Wursteisen"
     },
     {
       "id": 22,
       "videoUrl": "https://www.youtube.com/watch?v=Sy6ZdgqrQp0",
       "title": "Shaping Your App's Architecture with Kotlin and Architecture Components",
-      "speaker": "Florina",
-      "description": "Many apps began adopting Kotlin and Android Architecture Components at the same time. While ostensibly quite different, the interplay of these two changes ends up heavily influencing each other. Plaid is an open source example of material design concepts. It has a complex functionality but had a large amount of technical debt. We took the challenge of refactoring the app, following the Android Guide to App Architecture, while simultaneously converting the app to Kotlin_while keeping the existing functionality, fixing broken API integrations and adding new ones. The Guide to App Architecture provided a good starting point for creating lean, isolated classes. Kotlin features like delegates, high order functions and lambdas, sealed classes and others, end up shaping much of the architecture of the app. This talk covers the architecture lessons learned while converting Plaid to Kotlin and integrating Architecture Components. About the Presenter: Florina Muntenescu is working as an Android Developer Advocate at Google, helping developers architect clean, testable apps using the Architecture Components libraries. She has been working with Android for 8 years, previous work covering news at upday, payment solutions at payleven and navigation services at Garmin."
+      "speaker": "Florina"
     },
     {
       "id": 23,
       "videoUrl": "https://www.youtube.com/watch?v=MyljSWm0Y_k",
       "title": "New Type Inference and Related Language Features",
-      "speaker": "Svetlana Isakova",
-      "description": "NOTE! There_s a typo in the slides: should be T!! = T & Any instead of T!! = T & Any?. T!! is a non-nullable type, and intersecting T with a non-nullable Any expresses that. The new reworked type inference engine of Kotlin brings many new features that can be tried in experimental mode in 1.3. Besides just getting smarter and more predictable, this also brings a powerful data flow contract facility and some annotations to provide useful hints for type inference. This talk will provide a deep dive into the Kotlin type inference and what it will bring us in future versions. About the Presenter: Svetlana Isakova has worked on the Kotlin language at JetBrains. She_s co-authored the book Kotlin in Action and now is a Developer Advocate, where she spends her time teaching Kotlin and speaking at conferences worldwide."
+      "speaker": "Svetlana Isakova"
     },
     {
       "id": 24,
       "videoUrl": "https://www.youtube.com/watch?v=vdxBNh1qx1Q",
       "title": "Server as a Function in Kotlin",
-      "speaker": "Ivan Sanchez & David Denton",
-      "description": "In this talk, you'll learn about how we successfully rewrote the website of a major scientific publisher to pure Kotlin, serving millions of daily requests and in the process created the open source http4k microservice toolkit. The talk also covers how the team migrated the stack to Continuous Delivery-based deployment into a private on-premise cloud, and how http4k helped us introduce new failure-mode and inter-service contract testing techniques. This approach combines functional programming concepts and the versatility of Kotlin to produce applications that are simpler and more testable than most Java are accustomed to experience. And the best of it: with absolutely no magic! About the Presenter: Ivan Sanchez is a developer and coach with over 15 years of commercial experience. He has worked in a variety of industries and has been an advocate of Agile and eXtreme Programming practices such as TDD and Pair Programming over the last decade. A considerable portion of his coding experience is in Java and the last few years has been switching to Kotlin as his primary language of choice. He's been successful delivering Kotlin code to production and is the co-author of http4k: a lightweight HTTP library for Kotlin. David Denton Highly experienced Tech Lead polyglot specialising in TDD, software craft, debt resolving, mentoring and straight talking. Particularly specialised with ContinuousDeployment solutions: Java, Kotlin, Scala, Node & a quick study in others. Infrastructure-as-code automation. Build-craft. Refactoring wizard. Legacy-code cleaner. Creator of both http4k (Kotlin - http://http4k.org)"
+      "speaker": "Ivan Sanchez & David Denton"
     },
     {
       "id": 25,
       "videoUrl": "https://www.youtube.com/watch?v=ysCo_7xlzsI",
       "title": "Atlas and Peon: Dependency Visualization & Management with Kotlin/JS",
-      "speaker": "Neil Power",
-      "description": "When I spoke at KotlinConf '17, I presented on how we have adopted Kotlin at Hootsuite, the culture that facilitated that adoption as well as the details of our journey. A side story from that presentation that ended up generating many questions from the audience both after the talk, and since returning from the conference were our tools, Atlas and Peon. Atlas Atlas is a tool which we use at Hootsuite to visualize dependency graphs for our Kotlin/Java Android codebase, our ObjectiveC/Swift iOS codebase, and our Scala backend codebase. Originally written in Ruby, it has been rewritten in Kotlin/JS. Atlas scrapes Github for build files for Gradle, Carthage, and SBT. It then parses the build files and generates a dependency graph from them. The dependency graph can then be visualized as a PNG using graphviz or it can feed the graph to our Peon tool. Atlas is built to be extensible, each build system implements a generic worker interface. Atlas has been indispensable in development at Hootsuite, assisting in onboarding new developers, diagnosing bugs, and much more. I am very excited to finally Open Source the tool as a Kotlin/JS project and to dive deep into it for KotlinConf attendees so that they can use it in their own projects or even extend it to new build systems. Peon Peon was written because the Android team at Hootsuite was tired of bumping versions of libraries, both internal and external, and then cascading those changes up a dependency graph. Peon takes the dependency graph output of Atlas and then makes changes to the graph in an intelligent, and topologically aware, manner. Peon was also originally implemented in Ruby but is currently being rewritten in Kotlin/JS. Peon takes in a list of libraries to be updated in the graph. You can use it to update the version of Kotlin in all our projects or to bump a version of an external library. You can also use it to propagate changes to an internal library to the rest of the graph. Since deploying it at Hootsuite, Peon has saved hundred of developer hours. Peon will be released as an Open Source Kotlin/JS project prior to KotlinConf so that we can dive deep into this tool and attendees can integrate it with their own workflows. I am very excited to lead this talk, diving deep into both of these tools which are used daily at Hootsuite. I am especially interested in sharing the project with others so that they can save time on their own projects and teams. I am also interested in sharing my experience with Kotlin/JS, especially converting a Ruby project to Kotlin/JS. The benefits of the Kotlin type system for example, were immediately apparent, both within the project and when integrating with other Javascript libraries. About the Presenter: Neil Power is a Software Developer at Hootsuite, building out Hootsuite's Platform. He was previously an Android Developer working on Hootsuite's Android application. Originally from Newfoundland, he now calls Vancouver home. On the Hootsuite Android team, he made the switch to Kotlin early in 2016 and hasn't looked back."
+      "speaker": "Neil Power"
     },
     {
       "id": 26,
       "videoUrl": "https://www.youtube.com/watch?v=-lVVfxsRjcY",
       "title": "Representing State: the Kotlin Edition",
-      "speaker": "Christina Lee",
-      "description": "A core part of any code is the ability to know at any given time the set of conditions that make up its current operations. As developers, we need to know this for a variety of reasons, including because knowing this tells us whether we should be queuing any changes and gives us the ability to return a user to their current experience should the program be interrupted. But despite its crucial nature, codifying the state of an application at any given point in time can often be messy and error prone work. In this talk, we'll look at the reasons representing state can be problematic, and some practical ways we can leverage Kotlin to make it better. This talk is both a theoretical look at how the types we choose influence our ability to validate programs, and a practical exploration of concrete steps we can take to rectify these issues with Kotlin. About the Presenter: Christina Lee is a software engineer and GDE at Pinterest, where she works on UI frameworks."
+      "speaker": "Christina Lee"
     },
     {
       "id": 27,
       "videoUrl": "https://www.youtube.com/watch?v=UyTBXEZ983g",
       "title": "Effective Multiplatform Kotlin Development",
-      "speaker": "Marcin Moskala",
-      "description": "Kotlin enables you to write Android, iOS and web applications 100% natively. When you add good architecture, you can achieve enormous code reusage. In this lecture, I show how you can do it yourself. I present possibilities of this approach, how to apply clean architecture there and how to unit test it all. About the Presenter: Marcin Moskala is an experienced Android developer who is always looking for ways to improve. He has been passionate about Kotlin since its early beta release. He is an author of the book Android Development with Kotlin. He writes articles and speaks at programming conferences. Marcin is active in the programming and open source community and is also passionate about cognitive and data science. You can visit his website (marcinmoskala.com), medium (medium.com/@marcinmoskala) or follow him on GitHub (MarcinMoskala)"
+      "speaker": "Marcin Moskala"
     },
     {
       "id": 28,
       "videoUrl": "https://www.youtube.com/watch?v=bluW-XGP6cs",
       "title": "Full Stack Kotlin on Google Cloud!",
-      "speaker": "Brent Shaffer",
-      "description": "Kotlin is a great multipurpose programming language. Beyond using Kotlin for developing Android apps, Kotlin can power IoT devices, run backend services, and be used to build rich applications running in the Cloud. We demonstrate how Kotlin can be used across multiple services on Google Cloud Platform. The components being used are Cloud IoT Core, Google App Engine, Cloud Pub/Sub, and more. About the Presenter Brent Shaffer is a Developer Relations Engineer at Google where he champions the rights of lesser-supported programming languages which fall outside the Google spotlight. Other than software, he loves rock climbing and playing folk music [in a band](http://morehazards.com/)."
+      "speaker": "Brent Shaffer"
     },
     {
       "id": 29,
       "videoUrl": "https://www.youtube.com/watch?v=QaPMKZay_Ig",
       "title": "Building a Browser Extension with Kotlin",
-      "speaker": "Kirill Rakhman",
-      "description": "Kotlin has seen a fast adoption on platforms like Android or Server where the code is compiled to Java bytecode. However, as Kotlin also supports compilation to Javascript, the language is starting to receive attention in the Web ecosystem as well. In this talk we explore how Kotlin JS can be used to write typesafe browser extensions. To achieve this, we rely on external declarations of the browser API produced by a generator, also written in Kotlin. The first part of the talk deals with writing a mini-compiler for generating the API declarations. It touches on preprocessing and code generating techniques. In the second part, a live coding session, a small browser extension is developed. We take a look at the project format and build tools involved. Finally, we see how the previously generated declarations help us to write our extension in a type-safe way while receiving help from the IDE. About Kirill Rakhman: - Master in Computer Science at Karlsruhe Institute of Technology - Java/Kotlin developer for the Android app at busradar.com - C# backend developer at busradar.com - Open Source contributer to Kotlin."
+      "speaker": "Kirill Rakhman"
     },
     {
       "id": 30,
       "videoUrl": "https://www.youtube.com/watch?v=R5agKyMFVzo",
       "title": "I Am a Developer at 54",
-      "speaker": "Alicia Carr",
-      "description": "I talk about how and why I wanted to be an iOS mobile developer at the age of 51. How a 16 year inspired me to learn to code and the challenges I face after becoming an iOS developer being the first self-taught African American woman mobile developer to create a domestic violence app dedicated to helping victims escape abuse and how Apple found me and was highlight at WWDC 2015, 2016 keynote event and I am a developer video. Some people want to believe that people my age are out of touch with technology and as a woman. About the Presenter: Alicia is the first woman of color mobile developer to create a domestic violence app Purple Evolution, Inc(PEVO) dedicated to helping victims escape abuse. She used her acquired skills as a developer to make a difference. Alicia also dedicated her time to empowering women in tech with Women Who Code, she has received several major acknowledgments from Apple at WWDC15 and WWDC16 being the first black woman to be in an Apple 2016 new beginnings video and GitHub in there I am a developer video."
+      "speaker": "Alicia Carr"
     },
     {
       "id": 31,
       "videoUrl": "https://www.youtube.com/watch?v=jT2gHPQ4Z1Q",
       "title": "Exploring Coroutines in Kotlin",
-      "speaker": "Venkat Subramariam",
-      "description": "Coroutines have intrigued programmers for a long time. Some languages of the past implemented coroutines, but programmers using the mainstream languages of recent decades largely did not get much exposure to this programming construct. There's a resurgence of interest for coroutines and some serious work has been done in Kotlin to implement it. We'll take an example oriented approach to learning about the benefits of coroutines and along the way explore this feature of Kotlin. About the Presenter: Dr. Venkat Subramaniam is an award-winning author, founder of Agile Developer, Inc., creator of agilelearner.com, and an instructional professor at the University of Houston. He has trained and mentored thousands of software developers in the US, Canada, Europe, and Asia, and is a regularly-invited speaker at several international conferences. Venkat helps his clients effectively apply and succeed with sustainable agile practices on their software projects. Venkat is a (co)author of multiple technical books, including the 2007 Jolt Productivity award winning book Practices of an Agile Developer. You can find a list of his books at agiledeveloper.com. You can reach him by email at venkats@agiledeveloper.com or on twitter at @venkat_s."
+      "speaker": "Venkat Subramariam"
     },
     {
       "id": 32,
       "videoUrl": "https://www.youtube.com/watch?v=oCySoQlAlPk",
       "title": "Painless Microservices with Kotlin",
-      "speaker": "Fedor Korotkov",
-      "description": "Many will say: \"Building microservices is hard!\". But with the right set of tools, technologies and frameworks it appeared to be not the case. During this session we'll talk about modern microservices in general and how Kotlin helped us. We'll talk about Java Interoperability which allowed us to use all the goods of Java ecosystem. How building different Kotlin DSLs helped us to manage our infrastructure and orchestrate microservices. And finally how to manage this Kotlin code base in an efficient manner. About the Presenter: Fedor Korotkov spent many years at the industry leading companies building tools for engineers before founding Cirrus Labs which is focused on innovative tools for the Cloud Computing Era."
+      "speaker": "Fedor Korotkov"
     },
     {
       "id": 33,
       "videoUrl": "https://www.youtube.com/watch?v=vc04QKnryKs",
       "title": "Making Noise with Kotlin Native",
-      "speaker": "Josh Skeen",
-      "description": "Kotlin/Native lets you reach beyond the JVM, and into the world of hardware. In this talk we use Kotlin/Native to create a hardware audio synthesizer. You will learn how to interface with C++ libraries and compile and deploy Kotlin to embedded systems. We explore the state of the current Kotlin/Native ecosystem and what it provides. The result will be something we can jam with, Kotlin/Native-style! About the Presenter: Josh Skeen is an Android engineer and instructor at Big Nerd Ranch, and author of Kotlin Programming: The Big Nerd Ranch Guide. When not working on client consulting projects, he teaches Kotlin and Android. When not in front of his computer, you can find Josh running or creating electronic music on a eurorack modular."
+      "speaker": "Josh Skeen"
     },
     {
       "id": 34,
       "videoUrl": "https://www.youtube.com/watch?v=SgEaHrA1KfI",
       "title": "Writing Stream Processors in Kotlin",
-      "speaker": "Mario Mueller",
-      "description": "At trivago, we use Apache Kafka a lot. We recently migrated a good part of our Kafka-related Java code to Kotlin. In this talk we focus on how extension functions and the closure syntax make things pretty when using Kafka Streams. About the Presenter: Mario Mueller leads a team of brave people at trivago, who fearlessly encounter new technologies like Kafka, Debezium and Kotlin. He is a former database architect who now seeks his destiny in streaming, CDC and reactive systems."
+      "speaker": "Mario Mueller"
     },
     {
       "id": 35,
       "videoUrl": "https://www.youtube.com/watch?v=VOZZTSuDMFE",
       "title": "Functional Programming in Kotlin with _rrow",
-      "speaker": "Ra_l Raja Mart_nez",
-      "description": "This talk is a comprehensive walk through of the most important patterns covered by the data types and type classes we find in _rrow. Each pattern will be accompanied by code examples that illustrate how _rrow brings Typed Functional Programming to the Kotlin Programming Language About Ra_l Raja Mart_nez Functional Programmer in Kotlin & Scala. Co-founder & CTO @47deg. Scala Center Advisory Board. http://frees.io / http://arrow-kt.io maintainer."
+      "speaker": "Ra�l Raja Mart�nez"
     },
     {
       "id": 36,
       "videoUrl": "https://www.youtube.com/watch?v=Dul17VSiejo",
       "title": "iOS Architecture with Multiplatform",
-      "speaker": "Kevin Galligan",
-      "description": "2018 and 2019 will see a flood of mobile multiplatform libraries for Android and IOS using Kotlin Multiplatform. Mobile developers have had a decade to fine tune state-of-the-art best practice for the Android and iOS platforms. Those libraries will need analogs, and will quickly appear once the tooling and community mature. This talk will be an overview of what major libraries are available, what's coming soon, what libraries somebody desperately needs to build, and best resources on how to get started. About Kevin Galligan: President of Touchlab. Have been coding Android since before the G1. We run the big Android meetup in NYC, and Droidcon NYC. Currently obsessed with platform convergence topics."
+      "speaker": "Kevin Galligan"
     },
     {
       "id": 37,
       "videoUrl": "https://www.youtube.com/watch?v=hicQvxdKvnc",
       "title": "Datomic: The Most Innovative DB You've Never Heard Of",
-      "speaker": "August Lilleaas",
-      "description": "Datomic is a strange database. The writer is single threaded. It writes to other databases and has no storage of its own. It has a completely different API for reads and writes. Queries runs on the client, not the server. Time travel is built in, and you can query the history of your database. In this talk, you'll learn where Datomic fits and for which use cases the above are good ideas, how Datomic actually invented very little and stands on the shoulders of BigTable and VoltDB, all using Kotlin, of course :) About August Lilleaas: A full stack software developer, working as a consultant in Oslo. Builds CRUD for clients, with SQL databases, Datomic, JVMs, Clojure, Groovy, React and React Native."
+      "speaker": "August Lilleaas"
     },
     {
       "id": 38,
       "videoUrl": "https://www.youtube.com/watch?v=qokTPw5npMQ",
       "title": "Writing The Next Great Kotlin Novel",
-      "speaker": "Lisa Wray",
-      "description": "Especially if you're coming from Java_prescriptive, formal, and full of boilerplate_Kotlin bursts with expressive freedom. But how should we exercise this freedom? How concise is too concise? (Surely not as concise as Perl.) How should we choose new language features, and how to mix our code with third party DSLs? When to omit optional features_and when to keep them in? Moreover, what is our ultimate goal? Is it brevity and ease of expression when writing code? Maintainability? Interoperability? Consistency? Or are we trying to write the next great Kotlin novel? This talk begins where the official Kotlin style guides end. Based on opinionated principles of great writing for the English language, from books like \"On Writing Well\" by William Zinsser, \"On Writing\" by Steven King, \"What I Talk About When I Talk About Running\" by Haruki Murakami, and more, this talk will explore what it means to write great code, by proposing what it means to write great Kotlin. About the Presenter: Lisa Wray is a mobile developer, speaker, and advocate specializing in user interfaces. She has a B.S. from M.I.T. in music and computer science, and is a Google Developer Expert for Android. She currently works at Present (present.co), a local social network, and previously worked at Google, the New York Times, and Genius. She currently lives in Seattle."
+      "speaker": "Lisa Wray"
     },
     {
       "id": 39,
       "videoUrl": "https://www.youtube.com/watch?v=a3agLJQ6vt8",
       "title": "Kotlin Coroutines in Practice",
-      "speaker": "Roman Elizarov",
-      "description": "Let's see how Kotlin Coroutines are used to solve real-life concurrency and coordination problems. With coroutines we don't have to worry about shared mutable state and synchronization. We can solve the problems we face using a number of communicating coroutines, where each piece of state is confined to a single coroutine. About the Presenter: Roman Elizarov is a professional software developer with more than 17 years of experience. He had started his career at Devexperts, where he designed and developed high-performance trading software for leading brokerage firms and market data delivery services that routinely handle millions of events per second. He is an expert in Java and JVM, particularly in real-time data processing, algorithms and performance optimizations for modern architectures. Roman currently works on Kotlin language at JetBrains. Having worked on very large systems compromising many modules written in different languages, he has a dream of a single language that can be used to write all parts of a very large distributed system, to share and reuse data models and algorithms without friction. Kotlin with JVM and JS backends and upcoming native compiler is the ideal candidate to realize this dream. In 2000 Roman had graduated from St. Petersburg ITMO. He now teaches a course on concurrent and distributed programming in ITMO. During his undergraduate study he participated at ACM International Collegiate Programming Contest (ICPC). Since 1997 and until now Roman serves as a Chief Judge of Northeastern European Regional Programming Contest."
+      "speaker": "Roman Elizarov"
     },
     {
       "id": 40,
       "videoUrl": "https://www.youtube.com/watch?v=LP3PaPrIFHo",
       "title": "Android KTX: A Dash of Kotlin Makes All the Difference!",
-      "speaker": "Dan Kim",
-      "description": "When Kotlin hit the Android scene, one of the first things many of us did was wrap difficult-to-use Android Framework APIs with extension functions. That little sprinkle of Kotlin made all the difference, and life was great _ we finally we had a way to make our least favorite calls more concise and easier to work with! Android KTX builds on this same idea and makes them available to everyone. It's a new set of open source Kotlin extensions (maintained by Google) that sits on top of commonly used Framework methods, abstracting much of the complexity and boilerplate away. This vastly improves the conciseness and readability of your code, making it more idiomatic and enjoyable to work with. In this talk we'll start with a brief intro to KTX _ what it is, why it's so great, and what it means for us as Android developers. Next we'll take a tour of what extensions are currently available, highlighting some of my favorites. We'll compare the old, hard ways of doing things against the new, friendlier ways that KTX provides so you can clearly see how life with KTX is better! By the end you_ll have a better idea of 1) how you can improve your Android code by using KTX in your daily work and 2) what well-designed extension methods look like so you can wrap/extend the Android framework for your own use (or to contribute back into KTX!) About the Presenter: Dan Kim has been an Android programmer at Basecamp for four years, and prior to that had been working on Java for...a long time. He's always enjoyed Android development, but working with Kotlin over the last two years has rocketed that enthusiasm to a whole new level. The Android community has been instrumental to his work and career, and he's a big believer in paying that forward. Outside of work, he's an avid Dad __, donut aficionado __, pizza lover __, and emoji enthusiast __."
+      "speaker": "Dan Kim"
     },
     {
       "id": 41,
       "videoUrl": "https://www.youtube.com/watch?v=V4PS3IjIzlw",
       "title": "Building Server Backends with Ktor",
-      "speaker": "Ryan Harter",
-      "description": "Using Ktor from JetBrains, you can easily build a server backend using a composable DSL and Kotlin features like coroutines. Ktor runs in standard server environments, like Google's App Engine, which will host and scale your backend automatically. In this talk we build an in app purchase verification backend for your app from scratch, using Ktor. You'll see how Ktor's composable DSL makes server development fast and easy, and understand how you can quickly build a REST API and admin interface. About Ryan Harter: I'm the Android developer at Pixite where I work on Pigment, and I'm also a Google Developer Expert for Kotlin and Android. I've been developing Android apps since 2009 and love working on anything fun, usually graphics related."
+      "speaker": "Ryan Harter"
     },
     {
       "id": 42,
       "videoUrl": "https://www.youtube.com/watch?v=jnUtiyrpBCY",
       "title": "Porting D3.js to Kotlin Multiplatform",
-      "speaker": "Gaetan Zoritchak and Pierre Mariac",
-      "description": "D3.js is a very successful javascript library for data visualization, this library is exhaustive and widely used, so why port it ? Well, we had convictions which lead us to start this project: * A static language can boost productivity and ease maintenance, * Datavisualization deals with a lot of small DSLs, a domain where Kotlin excels, * Kotlin is a way to provide multiplatform isomorphic visualization on Android, JavaFx and the browser, * We need a toolable language to develop a future editor. In this session, we also present the issues we faced porting thousands of highly optimized dynamic javascript lines of code to Kotlin multiplatform. You will see the resulting code and the choices we made to achieve 95% of common code. Finally we demonstrate how DSL + static types will help developers to quick-start a data-visualization project. About the Presenters: Gaetan Zoritchak is an enthusiastic father, developer, entrepreneur, paraglider pilot, _ Having used lots of languages during its 20 years of IT experience, he believed very early in the promises of kotlin. He started in 2012 to code with it and in 2013 to promote it as a speaker. Pierre Mariac has worked for many companies as a data_visualization specialist, able to understand the concerns from the business to the managers to provide the best tools for data analysis."
+      "speaker": "Gaetan Zoritchak and Pierre Mariac"
     },
     {
       "id": 43,
       "videoUrl": "https://www.youtube.com/watch?v=psuMuSvEpRY",
       "title": "10 Tips to Make Libraries Kotlin-Friendly",
-      "speaker": "Kyle Thomson",
-      "description": "There's plenty out there about how to make Kotlin work well with Java - but what about the reverse? Do you want to appeal more to your Kotlin customers whilst maintaining an idiomatic experience for your Java customers? This session will cover 10(ish) tips and tricks you can apply to your Java library to make it more Kotlin-friendly without sacrificing usability for your Java customers. We'll look at case-studies of real open-source Java libraries and show you techniques you can apply to make your library play nicely within the Kotlin ecosystem. About the Presenter: Kyle Thomson is a senior engineer who spent a decade writing large-scale trading applications for banks before joining the AWS SDK team. He has a passion for open source and is currently a core maintainer for several of the open-sourced AWS tools. The majority of Kyle_s experience is in JVM languages (Java, Scala, Kotlin) but he_s also written enterprise software in Python, Perl, Objective-C and Ruby."
+      "speaker": "Kyle Thomson"
     },
     {
       "id": 44,
       "videoUrl": "https://www.youtube.com/watch?v=RX_g65J14H0",
       "title": "Best Practices for Unit Testing in Kotlin",
-      "speaker": "Philipp Hauer",
-      "description": "Unit Testing in Kotlin is fun and tricky at the same time. We can benefit a lot from Kotlin's powerful language features to write readable and concise unit tests. But in order to write idiomatic Kotlin test code in the first place, there is a certain test setup required. We'll talk about test lifecycles, mocking challenges, proper assertion libraries, the power of data classes and about spring integration. This talk contains best practices and guidelines to write unit test code in Kotlin that is idiomatic, readable, concise and produces reasonable failure messages. About the Presenter: Philipp Hauer works as a team lead for Spreadshirt in Leipzig, Germany. He focuses on developing JVM-based web applications and is enthusiastic about Kotlin, clean code, architectures and the sociology of software development. Moreover, Philipp is a keen blogger and tweets from time to time."
+      "speaker": "Philipp Hauer"
     },
     {
       "id": 45,
       "videoUrl": "https://www.youtube.com/watch?v=RUz8bCaAU_E",
       "title": "Learn together. Not the same",
-      "speaker": "Maria Neumayer and Amal Kakaiya",
-      "description": "Adopting Kotlin is a great opportunity to learn something new as a team. When learning we tried different approaches - from an hour of learning Kotlin, to improving our code reviews to focus on learning. Last year our team made the leap to using Kotlin in production - what worked? What didn_t? How did we keep the collaboration momentum going? Hear about how learning a new language as a team made us more open to asking questions, admitting things we didn_t know, prevented imposter syndrome and improved our engineering culture, process and code. About the Presenter: Maria Neumayer is an Android (or Kotlin) Developer working at Deliveroo. She's been developing for Android since 2010 with a focus on UI work. Austrian expat living in London. Previously at Citymapper, Path, Saffron Digital and Rummble. Amal Kakaiya is an engineer working on Android at Deliveroo in London. He's been coding professionally since 2012. Hailing from Glasgow, Scotland, Amal is also a keen triathlete and when not at a computer can be found cycling, running or swimming in and around East London."
+      "speaker": "Maria Neumayer and Amal Kakaiya"
     },
     {
       "id": 46,
       "videoUrl": "https://www.youtube.com/watch?v=XyGvwsQ5W5A",
       "title": "Kotlin and TornadoFX: The Next Frontier in Modern (Meta)Programming",
-      "speaker": "Amanda",
-      "description": "With growing complexity in our software systems, technology companies now dedicate greater effort to design product infrastructure to ensure modularity, low-cost solutions, and scalability. Object Oriented Programming (OOP)'s tendency of designing object-models for domain solutions in addition to its merits in handling large data and reducing complexity makes its usage a natural choice in the industry. Despite universal usage, Java's limitations in language techniques fail to capture all domain design decisions in a cohesive manner. This issue describes aspects of relational domains, in which scattering and tangling between mapped sources and targets forces large-scale projects to sacrifice domains that guarantees quality software. Kotlin's open-source community is active, its uses are ever-expanding, and its future is bright. This session intends to analyze a general definition of crosscutting and how it affects growing software, how Aspect-Oriented Programming (AOP) attempts to tackle crosscutting, shortcomings in Java's current approaches in reflexive programming, and subsequently discuss my experiences with TornadoFX in solving day-to-day business inefficiencies through my first attempt at metaprogramming. Exploration through examples will provide insight in Kotlin's approaches to metaprogramming intended to expose Kotln's predisposition to AOP. By harnessing the power of Kotlin, we can make strides in creating a foundation for rational framework for metaprogramming. About Amanda Hinchman-Dominguez: A Grinnell '17 alum from the sunny state of Florida. Merely at the beginning but specializes in UI development producing large-scale projects in sales enablement. College provided experience for data-driven development for analysis in social inquiry, Android development, as well as front-end engineering internships at Prudential and Cisco. More notably, a sculpture artist."
+      "speaker": "Amanda"
     },
     {
       "id": 47,
       "videoUrl": "https://www.youtube.com/watch?v=JzTeAM8N1-o",
       "title": "Creating Internal DSLs in Kotlin",
-      "speaker": "Venkat Subramaniam",
-      "description": "Domain Specific Languages (DSLs) are concise, fluent, and carry implicit context. For a language to be used as a host for internal DSLs first it needs to have low ceremony. Then it should provide a way to inject behavior into classes as well. Kotlin has both of those capabilities. In this presentation we will start with a quick discussion of DSLs, their characteristics, and then dive into examples of creating DSLs using the facilities that are native to Kotlin. About the Presenter: Dr. Venkat Subramaniam is an award-winning author, founder of Agile Developer, Inc., creator of agilelearner.com, and an instructional professor at the University of Houston. He has trained and mentored thousands of software developers in the US, Canada, Europe, and Asia, and is a regularly-invited speaker at several international conferences. Venkat helps his clients effectively apply and succeed with sustainable agile practices on their software projects. Venkat is a (co)author of multiple technical books, including the 2007 Jolt Productivity award winning book Practices of an Agile Developer. You can find a list of his books at agiledeveloper.com. You can reach him by email at venkats@agiledeveloper.com or on twitter at @venkat_s."
+      "speaker": "Venkat Subramaniam"
     },
     {
       "id": 48,
       "videoUrl": "https://www.youtube.com/watch?v=yoLh4sd1CWI",
       "title": "Coroutines and Reactive Programming - Friends or Foes?",
-      "speaker": "Konrad Kami_ski",
-      "description": "Coroutines may be seen as a replacement of reactive programming. Both of them offer the possibility to create asynchronous applications although in a very different way. Does it still make sense to use reactive programming in Kotlin? Or can we just stick with coroutines and forget all about other asynchronous applications approaches? Or maybe we can mix both of them, take their best parts and come up with a solution which is superior to any of the two? In this session we'll learn the differences between coroutines and reactive programming. We'll see when one shines and the other... is not so great. We'll look under the hood to find out the reasons behind some design decisions and how those decisions affect performance and interoperability. We'll try to decide when we should use coroutines and when the reactive programming model is better. About the Presenter: Konrad Kami_ski is a software engineer working at Allegro, a major Polish e-commerce company. He has 20 years of experience in the IT industry in various roles (mostly as a developer and a technical leader) in software companies. He spent the last 17 years of his career with Java-related technologies. For the past two years he's used Kotlin as his primary programming language (with delight). He blogs a bit, gives talks and trainings and contributes to open source."
+      "speaker": "Konrad Kami_ski"
     },
     {
       "id": 49,
       "videoUrl": "https://www.youtube.com/watch?v=j2tvi4GbOr4",
       "title": "Writing IntelliJ Plugins for Kotlin by Alec Strong and Egor Andreevici",
-      "speaker": "Alec Strong and Egor Andreevici",
-      "description": "With Kotlin having full interop with Java, mixed codebases have become common and effective - but have made writing developer tools more challenging. How do you support multiple languages with a single tool? How do you convert existing plugins from Java to Kotlin and is there a way to avoid having to? This talk covers UAST (Universal Abstract Syntax Tree), an API for working with languages generically. With UAST you can write a single tool that will work for both Java and Kotlin - no special casing needed. We talk about how to setup a plugin to use UAST and walk through a sample that works on mixed codebases. The talk also dives into the types of problems you can solve by writing an IntelliJ plugin, as well as other applications for UAST outside of IntelliJ IDEA. About the Presenters: Alec Strong and Egor Andreevici are Android developers at Square. Egor Andreevici. Egor is a Software Developer at Square, where he works on the Cash app for Android"
+      "speaker": "Alec Strong and Egor Andreevici"
     },
     {
       "id": 50,
       "videoUrl": "https://www.youtube.com/watch?v=Z7v_rxMRmHc",
       "title": "Kotlin a Great Fit for the Ethereum Ecosystem",
-      "speaker": "Ligi",
-      "description": "I want to talk about the usage of Kotlin in the Ethereum ecosystem. Kotlin and Ethereum are a great fit. Not only for writing Android wallet apps like WallETH (http://walleth.org | https://github.com/walleth/walleth) - but also for libraries like KEthereum (https://github.com/walleth/kethereum) or scripts like used in the Ethereum lists project (https://github.com/ethereum-lists) or even developing Ethereum dApps for IoT with Android-Things. This talk also gives an outlook what might happen in the future. Perhaps we can improve smart-contract development with Kotlin at some point? eWASM might be the gateway to this bright future in which we might even be able to use Idea based IDEs to develop smart-contracts and share code between the different edges and contracts. Lastly there's a look over the Ethereum horizon into other parts of the wider decentralized ecosystem. We look at interfacing the Interplatenary Filesystem (IPFS) with Kotlin (https://github.com/ligi/IPFSDroid | https://github.com/ligi/ipfs-api-kotlin) About Marcus Ligi: Love computers since I got my C128D as a teen Studied computer science in my twenties Strong interest in mobile computing with dark J2ME times early on Loving Android since publicly available. Currently hooked by the idea of a decentralized and fairer future."
+      "speaker": "Ligi"
     },
     {
       "id": 51,
       "videoUrl": "https://www.youtube.com/watch?v=Xq9vBZs0j-8",
       "title": "Kotlin Puzzlers, vol 2",
-      "speaker": "Anton Keks",
-      "description": "Kotlin is a marvelous language that makes programming on the JVM fun again. During the design phase of the language, it was said that Kotlin specifically tried to avoid some of the most famous Java Puzzlers. However, having so many advanced features in the language it cannot avoid introducing puzzlers of its own. This talk will present some of the more interesting nuances of syntax or language features with the help of small puzzler programs letting the audience guess their behavior. The mystery will then be revealed with an explanation in a fun way. Having received an overwhelmingly good feedback from the previous year, I am ready with a set of completely new puzzlers to entertain you among all these really serious talks! Don't miss this sequel to one of the highest rated talks of Kotlinconf 2017! About the Presenter: Anton Keks is a software craftsman, co-founder of Codeborne, the only extreme programming shop in the region, frequent speaker at conferences, and a lecturer in Tallinn Technical University. He is also a strong believer in open-source software and agile development methodologies, author of a popular network tool _ Angry IP Scanner, and a regular contributor to other open-source projects. Before founding Codeborne, Anton has led a team of developers of the award-winning internet-bank of Swedbank for 5 years, gradually introducing agile methods. During this time he has also co-founded Agile Estonia non-profit organization that organizes regular agile conferences in Estonia. During spare time he plays guitar, rides motorbike and travels to remote corners of the world."
+      "speaker": "Anton Keks"
     },
     {
       "id": 52,
       "videoUrl": "https://www.youtube.com/watch?v=uGMm3StjqLI",
       "title": "Sealed Classes Opened My Mind: How We Use Kotlin to Tame State at Etsy",
-      "speaker": "Patrick",
-      "description": "The talk explores using sealed classes to represent state via an event stream and how we can take filtered views of it while still maintaining the exhaustiveness of when. The talk would follow the concepts outlined in my post here: https://codeascraft.com/2018/04/12/sealed-classes-opened-my-mind/ Additionally it would explore how to use RxJava to emit these events and how to use when and filterIsInstance to react to them. There is a section on how Java's instanceof was often considered a poor practice and the (sometimes painful) indirection of polymorphic solutions like the visitor pattern. And finally how Kotlin makes all that pain go away. About Patrick Cousins: Been programming for nearly 20 years and I still love rediscovering that passion for new patterns and languages. Fan of corny jokes and seal puns."
+      "speaker": "Patrick"
     },
     {
       "id": 53,
       "videoUrl": "https://www.youtube.com/watch?v=p8Wt_atMA50",
       "title": "Performant Multiplatform Kotlin Serialization",
-      "speaker": "Eric Cochran",
-      "description": "The promise of Kotlin is mutiplatform. Kotlin serialization is capable of making multiplatform projects share even more code. Come to learn how to get started with Kotlin serialization, how to use it with your chosen data formats, and how to integrate it with your existing frameworks. Now is the best time to hack on Kotlin serialization and learn how it can support your use cases. About the Presenter: Eric Cochran works on making the Pinterest Android app even better, meanwhile trying to give back to and learn from open-source software whenever he can."
+      "speaker": "Eric Cochran"
     },
     {
       "id": 54,
       "videoUrl": "https://www.youtube.com/watch?v=pNFmreSEXic",
       "title": "Implementing Raft Protocol by Coroutines and Ktor Framework",
-      "speaker": "Andrii Rodionov",
-      "description": "We are living in an age of distributed systems. And one of the most challenging problems is consensus problem. Raft is a consensus protocol that is used in many production systems like Docker swarm, Consul, Kudu, RavenDB etc. This protocol is based on asynchronous communication between nodes in a cluster (with leader election, log replication, tolerate node failures, timeouts etc.), so we need some useful mechanisms and language features to effectively implement protocol behavior. During the talk, we briefly discuss Raft basics and then, in a code, look how part of the protocol could be implemented using coroutines and Ktor Framework. In the end, we will see in-memory key-value store based on Raft protocol that can tolerate node failures in the work. About the Presenter: Andrii Rodionov is a JUG UA leader and JavaDay UA conference organizer. Being very inspired by Kotlin language, he decided to become Kyiv Kotlin group and Kotlin Night Kyiv conference co-organizer. Andrii has a Ph.D. in computer science and works as an Associate professor at National Technical University, and as Software engineer at Wix. He is interested in Java, Kotlin, Scala languages, distributed systems, microservice architecture, and was a speaker at international and local conferences."
+      "speaker": "Andrii Rodionov"
     }
   ]
 }
