@@ -317,12 +317,6 @@
       "videoUrl": "https://www.youtube.com/watch?v=p8Wt_atMA50",
       "title": "Performant Multiplatform Kotlin Serialization",
       "speaker": "Eric Cochran"
-    },
-    {
-      "id": 54,
-      "videoUrl": "https://www.youtube.com/watch?v=pNFmreSEXic",
-      "title": "Implementing Raft Protocol by Coroutines and Ktor Framework",
-      "speaker": "Andrii Rodionov"
     }
   ]
 }
