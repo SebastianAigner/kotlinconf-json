@@ -1,0 +1,39 @@
+{
+  "videos": [
+{
+  "id": 1,
+  "title": "Exploring Coroutines",
+  "speaker": "Roman Elizarov",
+  "url": "https://www.youtube.com/watch?v=_hfBv0a09Jc",
+  "watched": false
+},
+{
+  "id": 2,
+  "title": "Next Level DSLs",
+  "speaker": "Aaron Sarazan",
+  "url": "https://www.youtube.com/watch?v=Rvx_BfG3NDo",
+  "watched": false
+},
+{
+  "id": 3,
+  "title": "Graphics Programming with Kotlin",
+  "url": "https://www.youtube.com/watch?v=LJyDCYP0WG4",
+  "watched": true,
+  "speaker": "Romain Guy"
+},
+{
+  "id": 4,
+  "title": "Komparing Kotlin Server Frameworks",
+  "url": "https://www.youtube.com/watch?v=8xfQA10Cd7g",
+  "watched": false,
+  "speaker": "Ken Yee"
+},
+{
+  "id": 5,
+  "title": "Conference Opening Keynote",
+  "url": "https://www.youtube.com/watch?v=PsaFVLr8t4E",
+  "watched": true,
+  "speaker": "Andrey Breslav"
+}
+  ]
+}
