@@ -149,36 +149,6 @@
       "videoUrl": "https://www.youtube.com/watch?v=ysCo_7xlzsI",
       "title": "Atlas and Peon: Dependency Visualization & Management with Kotlin/JS",
       "speaker": "Neil Power"
-    },
-    {
-      "id": 26,
-      "videoUrl": "https://www.youtube.com/watch?v=-lVVfxsRjcY",
-      "title": "Representing State: the Kotlin Edition",
-      "speaker": "Christina Lee"
-    },
-    {
-      "id": 27,
-      "videoUrl": "https://www.youtube.com/watch?v=UyTBXEZ983g",
-      "title": "Effective Multiplatform Kotlin Development",
-      "speaker": "Marcin Moskala"
-    },
-    {
-      "id": 28,
-      "videoUrl": "https://www.youtube.com/watch?v=bluW-XGP6cs",
-      "title": "Full Stack Kotlin on Google Cloud!",
-      "speaker": "Brent Shaffer"
-    },
-    {
-      "id": 29,
-      "videoUrl": "https://www.youtube.com/watch?v=QaPMKZay_Ig",
-      "title": "Building a Browser Extension with Kotlin",
-      "speaker": "Kirill Rakhman"
-    },
-    {
-      "id": 30,
-      "videoUrl": "https://www.youtube.com/watch?v=R5agKyMFVzo",
-      "title": "I Am a Developer at 54",
-      "speaker": "Alicia Carr"
     }
   ]
 }
